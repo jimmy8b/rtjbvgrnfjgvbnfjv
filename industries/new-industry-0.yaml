@@ -1,0 +1,16 @@
+available: false
+callbacks: ''
+cargoAcceptance: []
+cargoProduction: []
+colour: 1
+fundCostMultiplier: 0
+id: 0
+layout:
+- - - -1
+name: 'New industry #0'
+placement: anywhere
+probabilityInGame: 30
+probabilityMapGen: 30
+prospectChance: 0
+tiles: []
+type: primary
